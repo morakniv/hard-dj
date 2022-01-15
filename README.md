@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/project/25116). 
+
 # HardDJ - Arduino Mega based DJ MIDI Controller
 
 using old Harddisks as jog wheels
